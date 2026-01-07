@@ -4,7 +4,7 @@
 
   <!-- Typing SVG Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=7AA2F7&background=00000000&center=true&vCenter=true&width=500&lines=Xin+ch%C3%A0o%2C+m%C3%ACnh+l%C3%A0+Zeno2k3!;L%E1%BA%ADp+tr%C3%ACnh+vi%C3%AAn+Full+Stack;Y%C3%AAu+th%C3%ADch+s%E1%BB%B1+t%E1%BB%91i+gi%E1%BA%A3n;X%C3%A2y+d%E1%BB%B1ng+h%E1%BB%87+th%E1%BB%91ng+hi%E1%BB%87u+n%C4%83ng+cao" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=7AA2F7&background=00000000&center=true&vCenter=true&width=700&lines=Xin+ch%C3%A0o%2C+m%C3%ACnh+l%C3%A0+Zeno2k3!;L%E1%BA%ADp+tr%C3%ACnh+vi%C3%AAn+Full+Stack;Y%C3%AAu+th%C3%ADch+s%E1%BB%B1+t%E1%BB%91i+gi%E1%BA%A3n;X%C3%A2y+d%E1%BB%B1ng+h%E1%BB%87+th%E1%BB%91ng+hi%E1%BB%87u+n%C4%83ng+cao" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -24,7 +24,7 @@
   <br/>
 
   <!-- Tech Stack Section using SkillIcons for modern look -->
-  <h3>🛠️ Vũ Khí Công Nghệ</h3>
+  <h3>🛠️ Công Nghệ</h3>
   <br/>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,laravel,ts,js,react,cloudflare,python,mysql,vitest,docker,git,vscode&perline=6&theme=dark" />
@@ -62,16 +62,20 @@
   <br/>
 
   <!-- Stats Section -->
-  <h3>📊 Số Liệu Hoạt Động</h3>
+  <h3>📊 Số Liệu (Stable)</h3>
   <div align="center">
-    <!-- Streak Stats -->
-    <a href="https://github.com/Zeno2k3">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zeno2k3&theme=tokyonight&hide_border=true" alt="Zeno2k3 Streak" />
-    </a>
+    <!-- View Counter -->
+    <img src="https://komarev.com/ghpvc/?username=Zeno2k3&style=flat-square&color=2E91E3&label=Profile+Views" alt="Profile Views" />
     <br/><br/>
-    <!-- Top Languages -->
+    <!-- Github Stats via Shields.io (Always Online) -->
+    <a href="https://github.com/Zeno2k3?tab=followers">
+      <img src="https://img.shields.io/github/followers/Zeno2k3?style=flat-square&logo=github&label=Followers&color=2E91E3" />
+    </a>
+    <a href="https://github.com/Zeno2k3?tab=repositories">
+      <img src="https://img.shields.io/github/stars/Zeno2k3?style=flat-square&logo=github&label=Stars&color=F7DF1E" />
+    </a>
     <a href="https://github.com/Zeno2k3">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeno2k3&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+      <img src="https://img.shields.io/github/created-at/Zeno2k3?style=flat-square&logo=github&label=Joined&color=white" />
     </a>
   </div>
 
