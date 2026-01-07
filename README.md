@@ -9,17 +9,22 @@
   <p>Chào mừng bạn đến với trang github của tôi! Tôi là Zeno2k3, một lập trình viên Full Stack với kinh nghiệm trong việc xây dựng các ứng dụng web, app hiện đại và hiệu quả.</p>
   <hr>
 
-  <p>Ngoài ra mình còn có đam mê về trí tuệ nhân tạo và muốn tìm hiểu và xây dựng các model AI trong tương lai</p>
+  <p>Ngoài ra tôi còn có đam mê về trí tuệ nhân tạo và muốn tìm hiểu và xây dựng các model AI trong tương lai</p>
   <h3>Công nghệ</h3>
   <p align="left">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
     <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white" alt="PHP" />
     <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+    <img src="https://img.shields.io/badge/fastapi-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
     <img src="https://img.shields.io/badge/typescript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
     <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
     <img src="https://img.shields.io/badge/cloudflare-%23F38020.svg?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
     <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black" alt="React" />
     <img src="https://img.shields.io/badge/python-%233776AB.svg?style=flat-square&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/jupyter-%23F37626.svg?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
     <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+    <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
     <img src="https://img.shields.io/badge/docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git" />
     <img src="https://img.shields.io/badge/vscode-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VSCode" />
