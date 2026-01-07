@@ -9,23 +9,13 @@
 
   <br/>
 
-  <!-- Intro Text (IDE Style) -->
-```php
-class Zeno2k3 extends Developer {
-    const PASSION = 'Minimalism & Performance';
-
-    // Chào mừng đến với không gian số của mình.
-    // Chuyên trị Laravel, Cloudflare Workers & AI.
-    public function code() {
-        return "Elegant Solutions";
-    }
-}
-```
+  <!-- Intro Text (JetBrains Mono Static) -->
+  <img src="image/intro.svg" width="100%" alt="Intro" />
   
   <br/>
 
   <!-- Tech Stack Section using SkillIcons for modern look -->
-  <h3>🛠️ Công Nghệ</h3>
+  <h3>Skills</h3>
   <br/>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,laravel,ts,js,react,cloudflare,python,mysql,vitest,docker,git,vscode&perline=6&theme=dark" />
@@ -34,7 +24,7 @@ class Zeno2k3 extends Developer {
   <br/><br/>
 
   <!-- Projects Section -->
-  <h3>🚀 Dự Án Tiêu Biểu</h3>
+  <h3>Projects</h3>
   <table align="center" border="0" cellpadding="15">
     <tr>
       <td align="left" width="300">
@@ -69,10 +59,7 @@ class Zeno2k3 extends Developer {
   </table>
 
   <!-- Stats Section -->
-  <h3>Số Liệu (Stable)</h3>
-  
-  <b>My GitHub Stats</b>
-
+  <h3>Số Liệu</h3>
   <div align="center">
     <img src="https://nirzak-streak-stats.vercel.app/?user=Zeno2k3&theme=tokyonight&hide_border=true&font=jetbrains_mono" alt="Streak Stats" /><br/>
   </div>
@@ -81,7 +68,7 @@ class Zeno2k3 extends Developer {
   <br/>
 
   <!-- Connect Section -->
-  <h3>📬 Kết Nối</h3>
+  <h3>Connect</h3>
   <p>
     <a href="https://github.com/Zeno2k3">
       <img src="https://img.shields.io/badge/GitHub-Check_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
