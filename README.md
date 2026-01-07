@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Banner Image -->
-  <img src="image/profile.gif" width="100%" alt="Banner" style="border-radius: 12px; margin-bottom: 25px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);" />
+  <img src="image/profile.gif" width="100%" alt="Banner" style="border-radius: 12px; margin-bottom: 25px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);"/>
 
   <!-- Typing SVG Header -->
   <a href="https://git.io/typing-svg">
@@ -9,17 +9,18 @@
 
   <br/>
 
-  <p style="font-size: 16px; color: #888;">
-    <i>"Sự đơn giản là đỉnh cao của sự tinh tế."</i>
-  </p>
-  
-  <br/>
+  <!-- Intro Text (IDE Style) -->
+```php
+class Zeno2k3 extends Developer {
+    const PASSION = 'Minimalism & Performance';
 
-  <!-- Intro Text -->
-  <p align="center">
-    Chào mừng đến với không gian làm việc số của mình.<br/>
-    Mình tập trung vào <b>Laravel</b>, <b>Cloudflare Workers</b> và các giải pháp <b>AI Integration</b>.<br/>
-  </p>
+    // Chào mừng đến với không gian số của mình.
+    // Chuyên trị Laravel, Cloudflare Workers & AI.
+    public function code() {
+        return "Elegant Solutions";
+    }
+}
+```
   
   <br/>
 
@@ -42,42 +43,40 @@
         Hệ thống AI Real-time trên Cloudflare Workers.
         <br/><br/>
         <img src="https://img.shields.io/badge/Stack-Cloudflare%20%7C%20AI-F38020?style=flat-square" />
-        <a href="https://github.com/Zeno2k3/agent-cf2">
-          <img src="https://img.shields.io/github/commit-activity/m/Zeno2k3/agent-cf2?style=flat-square&label=Commits" alt="Commit Activity" />
+        <br/>
+        <a href="https://github.com/Zeno2k3/couldflare-agent">
+          <img src="https://img.shields.io/github/commit-activity/m/Zeno2k3/couldflare-agent?style=flat-square&label=Commits" alt="Commit Activity" />
+        </a>
+        <a href="https://couldflare-agent2.pages.dev/" target="_blank">
+          <img src="https://img.shields.io/badge/Demo-View_Site-blue?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" />
         </a>
       </td>
       <td align="left" width="300">
-        <b>E-commerce Core</b>
+        <b>E-commerce</b>
         <br/><br/>
-        Backend thương mại điện tử (Admin & API).
+        Thương mại điện tử.
         <br/><br/>
         <img src="https://img.shields.io/badge/Stack-Laravel%20%7C%20MySQL-FF2D20?style=flat-square" />
-        <a href="https://github.com/Zeno2k3/ecommerce-platform">
-          <img src="https://img.shields.io/github/commit-activity/m/Zeno2k3/ecommerce-platform?style=flat-square&label=Commits" alt="Commit Activity" />
+        <br/>
+        <a href="https://github.com/Zeno2k3/e-commerce-laravel">
+          <img src="https://img.shields.io/github/commit-activity/m/Zeno2k3/e-commerce-laravel?style=flat-square&label=Commits" alt="Commit Activity" />
+        </a>
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/badge/Demo-View_Site-blue?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" />
         </a>
       </td>
     </tr>
   </table>
 
-  <br/>
-
   <!-- Stats Section -->
-  <h3>📊 Số Liệu (Stable)</h3>
+  <h3>Số Liệu (Stable)</h3>
+  
+  <b>My GitHub Stats</b>
+
   <div align="center">
-    <!-- View Counter -->
-    <img src="https://komarev.com/ghpvc/?username=Zeno2k3&style=flat-square&color=2E91E3&label=Profile+Views" alt="Profile Views" />
-    <br/><br/>
-    <!-- Github Stats via Shields.io (Always Online) -->
-    <a href="https://github.com/Zeno2k3?tab=followers">
-      <img src="https://img.shields.io/github/followers/Zeno2k3?style=flat-square&logo=github&label=Followers&color=2E91E3" />
-    </a>
-    <a href="https://github.com/Zeno2k3?tab=repositories">
-      <img src="https://img.shields.io/github/stars/Zeno2k3?style=flat-square&logo=github&label=Stars&color=F7DF1E" />
-    </a>
-    <a href="https://github.com/Zeno2k3">
-      <img src="https://img.shields.io/github/created-at/Zeno2k3?style=flat-square&logo=github&label=Joined&color=white" />
-    </a>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=Zeno2k3&theme=tokyonight&hide_border=true&font=jetbrains_mono" alt="Streak Stats" /><br/>
   </div>
+
 
   <br/>
 
