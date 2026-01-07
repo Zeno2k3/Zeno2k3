@@ -6,10 +6,10 @@
   </a>
   <h3>Giới thiệu</h3>
 
-  <p>Chào mừng bạn đến với trang web của tôi! Tôi là Zeno2k3, một lập trình viên Full Stack với kinh nghiệm trong việc xây dựng các ứng dụng web hiện đại và hiệu quả.</p>
+  <p>Chào mừng bạn đến với trang github của tôi! Tôi là Zeno2k3, một lập trình viên Full Stack với kinh nghiệm trong việc xây dựng các ứng dụng web, app hiện đại và hiệu quả.</p>
   <hr>
 
-  <p>Ngoài ra mình còn có đam mê về ai và muốn tìm hiểu thêm về trí tuệ nhân tạo</p>
+  <p>Ngoài ra mình còn có đam mê về trí tuệ nhân tạo và muốn tìm hiểu và xây dựng các model AI trong tương lai</p>
   <h3>Công nghệ</h3>
   <p align="left">
     <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white" alt="PHP" />
@@ -24,8 +24,6 @@
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git" />
     <img src="https://img.shields.io/badge/vscode-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VSCode" />
   </p>
-
-  <br/><br/>
 
   <h3>Dự án</h3>
   <table align="center" border="0" cellpadding="15">
